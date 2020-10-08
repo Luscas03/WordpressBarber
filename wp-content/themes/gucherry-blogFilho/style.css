@@ -1,0 +1,14 @@
+/*
+Theme Name: GucherryFilho
+Author: Lucas Almeida
+Description: Tema adaptado do GHUCHERRY-BLOG
+Version: 1.0
+Text Domain:gucherry-blog
+Template:gucherry-blog
+*/
+* {
+    color: aqua;
+}
+*:hover {
+    color: blue;
+}
