@@ -1,11 +1,13 @@
 /*
-Theme Name: Meu Tema
+Theme Name: Theme-lucas
 Author: Lucas Almeida
 
 Description: Meu Primeiro Site Wordpress
 Version: 1.0
 */
-* {
+/* Bootstrap core CSS */
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'); 
+ * {
     list-style-type: none;
 }
 
@@ -39,7 +41,7 @@ footer {
 
 a {
     text-decoration: none;
-}
+} 
 
 .wrap {
     width: 99%;
@@ -91,27 +93,18 @@ a {
     margin-bottom: 4px;
 }
 
-#menu {
+ #menu {
     background-color: rgb(136, 176, 221);
-    display: inline;
-    float: right;
+
+
     padding-bottom: 9%;
     margin-top: 0;
     padding-top: 0;
-    margin-right: 2%;
+   
     padding: 2%;
-    border-radius: 50%;
 
 
 
-}
 
-footer {
+} 
 
-    background-color: rgb(173, 194, 194);
-
-    padding-left: 50%;
-    padding-right: 50%;
-    position: fixed;
-    bottom: 0;
-}
