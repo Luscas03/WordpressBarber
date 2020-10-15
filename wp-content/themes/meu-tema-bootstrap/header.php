@@ -22,6 +22,10 @@
   <li class="nav-item">
     <a class="nav-link text-dark" href="<?php echo esc_url( home_url( '/SERVICOS' ) ); ?>">Serviços</a>
   </li>
+  
+  <li class="nav-item">
+    <a class="nav-link text-dark" href="<?php echo esc_url( home_url( '/produto' ) ); ?>">Produtos</a>
+  </li>
   <li class="nav-item">
     <a class="nav-link text-dark" href="<?php echo esc_url( home_url( '/FALE CONOSCO' ) ); ?>">Fale Conosco</a>
   </li>

@@ -44,4 +44,5 @@
         );
     }
     add_action ( 'init', 'criar_posttype' );
+    add_theme_support('post-thumbnails');
 ?>
